@@ -1,4 +1,4 @@
-# Counterspark (v0.2.3 test build)
+# Counterspark (v0.3 test build)
 
 Two circles of wizards. One live spark. Every reversal makes it faster.
 
@@ -16,6 +16,13 @@ This is an early test build. Feedback is very welcome.
 - **Fullscreen:** F11
 
 Main menu > How to Play shows each mechanic in a short clip.
+
+## Multiplayer
+
+Main menu > Multiplayer. One player picks **Host a game** and gets a 4-letter room code; the others
+open this page, pick Multiplayer and **Join** with that code. The host sets the match and starts it;
+bots fill any empty places (up to 5v5). No downloads or port forwarding needed. A few strict networks
+(some school or office ones) may block the connection.
 
 ## Credits
 
