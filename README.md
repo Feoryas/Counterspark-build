@@ -1,4 +1,4 @@
-# Counterspark (v0.3 test build)
+# Counterspark (v0.3.1 test build)
 
 Two circles of wizards. One live spark. Every reversal makes it faster.
 
